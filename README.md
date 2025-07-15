@@ -56,7 +56,7 @@ See [LICENSE.txt](./LICENSE.txt) for full legal terms.
 ## ✍️ Authorship
 
 - **Primary Author**: Evan Weller  
-- **Maintainer**: catlover013579, catlover135790, or catlover13579  
+- **Maintainer**: catlover013579: as found on Github
 - Contributions from others are welcome under the Academic Integrity and Peer Review Standards (see below).
 
 ---
