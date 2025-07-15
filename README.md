@@ -65,8 +65,8 @@ See [LICENSE.txt](./LICENSE.txt) for full legal terms.
 
 We welcome scholars, students, and curious minds. To contribute:
 
-1. Read the [Academic Integrity Standards](./ACADEMIC_INTEGRITY.md)
-2. Follow the [Contribution Guidelines](./CONTRIBUTING.md)
+1. Read the [Academic Integrity Standards](./ACADEMIC_INTEGRITY)
+2. Follow the [Contribution Guidelines](./CONTRIBUTING)
 3. Submit a pull request or GitHub Issue
 
 All peer review and discussion is documented and version-controlled.
@@ -90,7 +90,7 @@ The public-facing version of the Codex is hosted at:
 This repository is in its early stages.  
 The **First Edition** is in development — estimated milestone: *December [2027]*.
 
-You can track progress or view the quarterly "State of the Codex" [here](./STATE_OF_CODEX.md).
+You can track progress or view the quarterly "State of the Codex" [here](./STATE_OF_CODEX).
 
 ---
 
