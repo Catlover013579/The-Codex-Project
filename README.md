@@ -65,7 +65,7 @@ See [LICENSE.txt](./LICENSE.txt) for full legal terms.
 
 We welcome scholars, students, and curious minds. To contribute:
 
-1. Read the [Academic Integrity Standards](./ACADEMIC_INTEGRITY)
+1. Read the [Academic Integrity Standards](https://github.com/Catlover013579/The-Codex-Project/blob/main/Academic%20Integrety))
 2. Follow the [Contribution Guidelines](./CONTRIBUTING)
 3. Submit a pull request or GitHub Issue
 
