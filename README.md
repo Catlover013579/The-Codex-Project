@@ -1,10 +1,10 @@
 # The Codex Project: A Theory of Everything
 
-> "Ambition is the gas; temperance is the oil." — Evan Weller
+> "Ambition is the gas; temperance is the oil." —G. "Cat" Evan Weller
 
 The Codex Project is an open-access, modular, and ever-evolving encyclopedia of human knowledge — designed to educate, inspire, and endure.
 
-Founded by **G. Evan Weller** (also known online as catlover013579, catlover135790, or catlover13579), this project seeks to collect, organize, and preserve humanity’s understanding of science, technology, philosophy, and culture in a format that is accessible, academically rigorous, and designed to last generations.
+Founded by **G. Evan Weller** (also known online as catlover013579, catlover135790, catlover13579, or simply Cat), this project seeks to collect, organize, and preserve humanity’s understanding of science, technology, philosophy, and culture in a format that is accessible, academically rigorous, and designed to last generations.
 
 ---
 
@@ -81,4 +81,37 @@ The public-facing version of the Codex is hosted at:
 ---
 
 ## 📥 Repository Structure (Work-in-Progress)
+
+
+---
+
+## 🧪 Current Status
+
+This repository is in its early stages.  
+The **First Edition** is in development — estimated milestone: *December [2027]*.
+
+You can track progress or view the quarterly "State of the Codex" [here](./STATE_OF_CODEX.md).
+
+---
+
+## 🌱 Legacy Goal
+
+The Codex will be:
+- Donated in physical and digital form to libraries and institutions
+- Translated into Latin and other languages to resist linguistic drift
+- Maintained by future contributors through transparent change logging
+
+This is not a private manuscript. It is a **gift to the future**.
+
+---
+
+## 🧾 Contact
+
+- GitHub: [catlover013579](https://github.com/Catlover013579)
+- Reddit: [catlover135790](https://www.reddit.com/user/catlover135790/)
+- Voice Logs: (future YouTube link or blog)
+- any contact should preface, or hold the subject line: "the codex project", "the codex project: contributions", "the codex project: corrections" or similar.
+---
+
+## 🌌 “Let knowledge outlive us.”
 
