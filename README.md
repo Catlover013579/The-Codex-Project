@@ -75,12 +75,21 @@ All peer review and discussion is documented and version-controlled.
 
 ## 🌐 Website
 
-The public-facing version of the Codex is hosted at:  
+The public-facing, mono-file version of the Codex is hosted at:  
 📍 **[not yet available]**
 
 ---
 
 ## 📥 Repository Structure (Work-in-Progress)
+
+/index/
+   ├── papers.md            ← master list of papers  
+   ├── codices.md           ← overview of codices  
+   ├── glossary.md          ← glossary (can be standalone too)  
+   ├── state_of_codex.md    ← progress & updates log  
+   ├── paper_template.md    ← template for new papers  
+   └── contributors.md      ← list of contributors (optional)
+
 
 
 ---
@@ -90,7 +99,7 @@ The public-facing version of the Codex is hosted at:
 This repository is in its early stages.  
 The **First Edition** is in development — estimated milestone: *December [2027]*.
 
-You can track progress or view the quarterly "State of the Codex" [here](./STATE_OF_CODEX).
+You can track progress or view the quarterly "State of the Codex" [here](https://github.com/Catlover013579/The-Codex-Project/tree/main/index/STATE_OF_THE_CODEX)
 
 ---
 
