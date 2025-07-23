@@ -1,0 +1,6 @@
+- [ ] I have read and understood the [academic integrity page](legal/ACADEMIC_INTEGRITY.txt).
+- [ ] My work is original and does not violate any copyright.
+- [ ] I agree to the Codex Project’s [Terms and Conditions](legal/terms_and_conditions.md).
+- [ ] I have read and understood the [Contributions page](CONTRIBUTING.md).
+- [ ] My work is consistant with the [projects content policy](legal/content_policy.md).
+- [ ] I agree to the Codex Project’s [privacy policy](legal/Privacy_policy.md).
