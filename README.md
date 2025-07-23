@@ -120,6 +120,11 @@ This is not a private manuscript. It is a **gift to the future**.
 - Reddit: [catlover135790](https://www.reddit.com/user/catlover135790/)
 - Voice Logs: (future YouTube link or blog)
 - any contact should preface, or hold the subject line: "the codex project", "the codex project: contributions", "the codex project: corrections" or similar.
+- 
+![Alt text](assets/The_Codex_Project_(plain).png)
+
+![The Codex Project Logo](assets/The_Codex_Project_(text).png)
+
 ---
 
 ## 🌌 “Let knowledge outlive us.”
