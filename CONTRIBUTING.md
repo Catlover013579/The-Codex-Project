@@ -16,9 +16,20 @@ We welcome submissions from anyone who values accuracy, clarity, and legacy.
   - Word count
   - License declaration
   - Date of submission or last update
-
 ---
 
+## founders clause:
+As the originator and sole contributor to The Codex Project in its foundational phase, the following exceptions to contribution protocol are temporarily in effect:
+
+- Author and reviewer may be the same individual.
+
+- Submissions may bypass peer review if authored by the core maintainer (currently Catlover013579).
+
+- All contributions during this period will be clearly labeled as Preliminary until formal review structures are implemented post-2032.
+
+-This clause will be revised as the contributor base expands.
+
+---
 ## Types of Contributions:
 
 ### You can contribute:
