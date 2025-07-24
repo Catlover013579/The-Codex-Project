@@ -31,7 +31,7 @@ The Codex Project is a generational archive of human knowledge. Academic integri
 ## 📚 Citation Requirements
 
 - **Minimum of 5 citations per 1,000 words**.
-- MLA 5th Edition format required for all papers.
+- MLA 9th Edition format required for all papers.
 - Use scholarly or primary sources wherever possible.
 - All citations must be traceable and included in a central reference list per Codex.
 
