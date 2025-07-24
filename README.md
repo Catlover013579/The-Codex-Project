@@ -31,7 +31,7 @@ The Codex is built in layers:
 ## 🛠️ Format & Standards
 
 - Written in plain English (Latin co-primary planned)
-- MLA 5th Edition citation format
+- MLA 9th Edition citation format
 - Every paper includes **5+ citations per 1,000 words**
 - Citations are logged at the **end of each Codex**
 - All peer-reviewed papers are clearly marked
